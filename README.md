@@ -17,8 +17,5 @@ We also made a trailer video for our app. You can watch it from down below.
 [![TravelWander](https://snipboard.io/jr3BO4.jpg)](https://www.youtube.com/watch?v=WWGPPHXyAvI)
 
 
- _________________________________________________________________________________________________
 
-## Contributors
-@aleynaalemdar
 
