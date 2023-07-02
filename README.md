@@ -7,3 +7,18 @@ Beyond managing personal information, the application enables users to explore t
 Our project showcases a seamless integration of data from the MySQL database that we meticulously constructed. Every aspect, including city names, corresponding photos, captivating content, and other relevant details, is dynamically retrieved from the database. This dynamic approach ensures that our application remains up-to-date and easily customizable, providing users with a truly immersive experience.
 
 We dedicated a month to develop this project, during which we gained extensive knowledge and had an enjoyable experience throughout the process.
+
+Here are the photos of this project:
+????? put put
+
+We also made a trailer video for our app. You can watch it from down below.
+
+
+[![TravelWander](https://snipboard.io/jr3BO4.jpg)](https://www.youtube.com/watch?v=WWGPPHXyAvI)
+
+
+ _________________________________________________________________________________________________
+
+## Contributors
+@aleynaalemdar
+
