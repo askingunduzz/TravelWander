@@ -15,7 +15,7 @@ We spent a month developing this project and enjoyed gaining extensive knowledge
 We made a trailer video for our app. You can watch it from down below.
 
 
-[![TravelWander](https://snipboard.io/lBEO1A.jpg)](https://www.youtube.com/watch?v=WWGPPHXyAvI)
+[![TravelWander](https://snipboard.io/VgeLac.jpg)](https://www.youtube.com/watch?v=_SCdW6YVOs4)
 
 
 
